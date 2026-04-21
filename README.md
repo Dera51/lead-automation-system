@@ -27,9 +27,7 @@ Lead management process with the following steps:
 
 ---
 
-## Workflow
 ## Workflow Diagram
-
 ![Automation Workflow](workflow-diagram.png)
 Client → Google Form → Google Sheets → Zapier → Email Notification
 

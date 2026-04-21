@@ -1,33 +1,68 @@
-# Lead Capture Automation
+# Lead Capture Automation System
 
-## Description
+## Project Description
 
-The following project showcases the process of lead capture management through automation for small businesses.
+The project shows the capabilities of using an automation system to collect leads for small businesses.
 
-## Issue
+The solution takes the information entered by the client on a form, saves it to a spreadsheet, and sends automatic notifications to the business owner.
 
-Many small businesses receive inquiries from customers but do not follow up on them properly.
-This results in the loss of valuable leads.
+---
+
+## Problem
+
+Many small businesses use online forms to receive customer inquiries, yet do not keep track of them.
+
+As a result, potential clients are overlooked and lost.
+
+---
 
 ## Solution
 
-A tool that automatically captures leads, saves them in an electronic spreadsheet, and sends out automatic notifications.
+Lead management process with the following steps:
 
-## Process
+• Gathering customer contact information from a form  
+• Saving the received data to a spreadsheet  
+• Sending automatic notifications to the business owner  
+• Sending confirmation emails to the customer  
 
-1. The customer fills out the form.
-2. Responses are saved into Google Sheets.
-3. Zapier recognizes the response.
-4. An automatic notification is sent to the business owner's email address.
-5. A confirmation email is automatically sent to the customer.
+---
 
-## Tools Required
+## Workflow
 
-Google Forms
-Google Sheets
-Zapier
-Gmail
+Client → Google Form → Google Sheets → Zapier → Email Notification
 
-## Result
+1. The customer fills out the form  
+2. The data goes to Google Sheets  
+3. Zapier triggers the script  
+4. An email notification goes to the business owner  
+5. The confirmation email goes to the customer
 
-Automated capture of leads with automatic notifications for the business owner every time a customer makes a request.
+---
+
+## Used Tools
+
+- Google Forms  
+- Google Sheets  
+- Zapier  
+- Gmail  
+
+---
+
+## Images
+
+### Lead Capture Form
+*(Insert image here)*
+
+### Collected Leads in Spreadsheet
+*(Insert image here)*
+
+### Automated Workflow in Zapier
+*(Insert image here)*
+
+---
+
+## Conclusion
+
+The automation system allows you to gather leads and send notifications without manual involvement.
+
+It eliminates the risk of losing valuable customers.

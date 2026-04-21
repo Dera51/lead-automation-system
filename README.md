@@ -48,17 +48,14 @@ Client → Google Form → Google Sheets → Zapier → Email Notification
 
 ---
 
-## Images
-
 ### Lead Capture Form
-*(Insert image here)*
+![Form Screenshot](screenshots/form.png)
 
-### Collected Leads in Spreadsheet
-*(Insert image here)*
+### Stored Leads in Spreadsheet
+![Sheet Screenshot](screenshots/sheet.png)
 
-### Automated Workflow in Zapier
-*(Insert image here)*
-
+### Zapier Automation Workflow
+![Zapier Workflow](screenshots/zapier-workflow.png)
 ---
 
 ## Conclusion
